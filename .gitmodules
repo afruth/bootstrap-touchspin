@@ -1,0 +1,4 @@
+[submodule "bootstrap-touchspin"]
+	path = bootstrap-touchspin
+	url = https://github.com/istvan-ujjmeszaros/bootstrap-touchspin
+	branch = master
